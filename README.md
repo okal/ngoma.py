@@ -11,6 +11,7 @@ Requirements
 Ngoma.py has the following dependencies
 
 [pygame](http://pygame.org/) - The mixer package is used for mp3 file playback
+
 [mutagen](http://code.google.com/p/mutagen/) - Used to read the ID3 tags
 
 Where it's at
