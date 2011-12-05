@@ -8,7 +8,6 @@ Fork the code if you find it useful/fun.
 Where it's at
 -------------
 
-All you can do with ngoma now is read the tags of an MP3 file.
+In it's current form, Ngoma.py can playback mp3 files and read their metadata.
 
 &copy; Okal Otieno, 2011 &amp; beyond.
-BSD License
