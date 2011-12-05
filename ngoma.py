@@ -30,4 +30,3 @@ if __name__ == "__main__":
     song_file = argv[1]
     print_song_info(song_file)
     play_song(song_file)
-    
